@@ -1,1 +1,0 @@
-This is my new file for Exercies 6, "renaming and deleting a file."
